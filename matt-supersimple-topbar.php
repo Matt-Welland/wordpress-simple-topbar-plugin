@@ -3,7 +3,7 @@
 Plugin Name: Supersimple Topbar
 Description: Adds a topbar to the top of the website
 Version: 1.0.0
-Author: Matt Welland (Inventive)
+Author: Matt Welland
 Author URI: https://github.com/Matt-Welland
 */
 
